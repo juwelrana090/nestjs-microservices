@@ -7,4 +7,4 @@ import { RiderService } from './rider.service';
   controllers: [RiderController],
   providers: [RiderService],
 })
-export class RiderModule {}
+export class RiderModule { }
